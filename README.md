@@ -28,11 +28,17 @@ Una prueba para una tabla | Esto es otra columna | y esta otra más
 
 ![a](https://upload.wikimedia.org/wikipedia/commons/6/64/Ole_diario_logo.jpg)
 
+
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+function understands_video() {
+return !!document.createElement('video').canPlayType; // boolean
+}
+
+if ( !understands_video() ) {
+// tiene que ser BASIC 1.0.
+// Mi primer ordenador fue un AMSTRAD CPC 464
+// Todavia lo tengo pero el monitor de fosforo verde no funciona.
+videoControls.style.display = 'none';
 }
 ```
 
