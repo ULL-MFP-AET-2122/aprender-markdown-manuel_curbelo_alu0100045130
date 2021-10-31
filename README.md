@@ -1,4 +1,6 @@
 # Curriculum Vitae
+
+> *Damas y caballeros, estos son mis principios. Si no les gustan tengo otros*
 ## Educación
 * 2004-2006 *Técnico Superior* en Telecomunicaciones e Informática
 * 2011-2012 **Técnico Superior** en Integración Social
@@ -11,12 +13,18 @@
 * Administrativo *en un monton de sistios*
 
 
- | Categoria
------------- | -------------
-2.1 | Tecnología
-2.2 | Informática
+Una prueba para una tabla | Esto es otra columna | y esta otra más
+------------ | ------------- | -------------
+2.1 | Tecnología | aqui ponemos mas texto
+2.2 | Informática | y aqui mas cosas que salen en tablas
+
+~~Esto es para probar cosas~~
 
 ### tal y cuales
+
+# La pagina web de nuestra empresa
+
+# [Mongaro Website](https://www.mongaro.com)
 
 ![a](https://upload.wikimedia.org/wikipedia/commons/6/64/Ole_diario_logo.jpg)
 
