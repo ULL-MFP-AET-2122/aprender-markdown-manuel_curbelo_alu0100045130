@@ -26,7 +26,7 @@ Una prueba para una tabla | Esto es otra columna | y esta otra más
 
 # [Mongaro Website](https://www.mongaro.com)
 
-![a](/images/Ainara.jpeg)
+![Ainara](https://github.com/ULL-MFP-AET-2122/aprender-markdown-manuel_curbelo_alu0100045130/blob/770b3911d34b587b3d35450bf86b249814be7a7b/Ainara.jpeg)
 
 
 ```javascript
