@@ -12,21 +12,29 @@
 ## Experiencia de trabajo
 
 * Barcos y cosas que flotan
+    * Barco entre islas
+    * Barco en Barcelona
+
+
+
 * Administrativo *en un monton de sistios*
+    * En el CHUC
+    * En una funeraria
+    * En una empresa de representaciones
 
 
 Una prueba para una tabla | Esto es otra columna | y esta otra más
------------- | ------------- | -------------
+- | - | -
 2.1 | Tecnología | aqui ponemos mas texto
 2.2 | Informática | y aqui mas cosas que salen en tablas
 
+Da igual cuantas barras pongas para crear una tabla, se arregla ella sola
+
 ~~Esto es para probar cosas~~
 
-### tal y cuales
+### Probando otros formatos
 
-# La pagina web de nuestra empresa
-
-# [Mongaro Website](https://www.mongaro.com)
+# [La pagina web de nuestra empresa](https://www.mongaro.com)
 
 
 ```javascript
