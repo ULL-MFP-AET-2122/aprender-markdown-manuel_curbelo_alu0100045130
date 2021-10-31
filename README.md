@@ -1,5 +1,7 @@
 # Curriculum Vitae
 
+![Groucho Marx](https://www.elcorreo.com/xlsemanal/wp-content/uploads/sites/5/2021/09/groucho-marx-vida-familia-actor.jpg)
+
 > *Damas y caballeros, estos son mis principios. Si no les gustan tengo otros*
 ## Educación
 * 2004-2006 *Técnico Superior* en Telecomunicaciones e Informática
@@ -25,8 +27,6 @@ Una prueba para una tabla | Esto es otra columna | y esta otra más
 # La pagina web de nuestra empresa
 
 # [Mongaro Website](https://www.mongaro.com)
-
-![Ainara](/workspace/aprender-markdown-manuel_curbelo_alu0100045130/Ainara.jpeg)
 
 
 ```javascript
