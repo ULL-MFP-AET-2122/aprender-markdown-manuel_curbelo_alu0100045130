@@ -26,7 +26,7 @@ Una prueba para una tabla | Esto es otra columna | y esta otra más
 
 # [Mongaro Website](https://www.mongaro.com)
 
-![a](https://upload.wikimedia.org/wikipedia/commons/6/64/Ole_diario_logo.jpg)
+![a](/images/Ainara.jpeg)
 
 
 ```javascript
