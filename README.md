@@ -2,9 +2,11 @@
 
 [![Groucho Marx](https://www.elcorreo.com/xlsemanal/wp-content/uploads/sites/5/2021/09/groucho-marx-vida-familia-actor.jpg)](https://www.elcorreo.com/xlsemanal/wp-content/uploads/sites/5/2021/09/groucho-marx-vida-familia-actor.jpg)
 
+> *Damas y caballeros, estos son mis principios. Si no les gustan tengo otros*
+
 *Para mostrar una imagen que al hacer click nos lleve a la pagina hay que ponerla entre corchetes y despues el enlace* (**no se puede poner un enlace diferente porque da error**)
 
-> *Damas y caballeros, estos son mis principios. Si no les gustan tengo otros*
+
 ## Educación
 * 2004-2006 *Técnico Superior* en Telecomunicaciones e Informática
 * 2011-2012 **Técnico Superior** en Integración Social
