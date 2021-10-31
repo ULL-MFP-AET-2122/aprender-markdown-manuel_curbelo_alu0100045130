@@ -8,13 +8,27 @@
 ## Experiencia de trabajo
 
 * Barcos y cosas que flotan
-* # Administrativo #
+* Administrativo
+
+Grupo | Categoria
+------------ | -------------
+2.1 | Tecnología
+2.2 | Informática
 
 ### tales y cuales
 
 👾
 
 ![a](https://upload.wikimedia.org/wikipedia/commons/6/64/Ole_diario_logo.jpg)
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 
 
 
