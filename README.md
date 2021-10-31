@@ -1,7 +1,7 @@
 # Curriculum Vitae
 ## Educación
-* 2004-2006 Técnico Superior en Telecomunicaciones e Informática
-* 2011-2012 Técnico Superior en Integración Social
+* 2004-2006 *Técnico Superior* en Telecomunicaciones e Informática
+* 2011-2012 **Técnico Superior** en Integración Social
 * 2012-2016 Grado en Tecnologías Marinas
 * 2019-👾 Máster en Ingenieria Marina
 * 2021-2022 Master en Profesorado
