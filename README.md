@@ -1,6 +1,8 @@
 # Curriculum Vitae
 
-![Groucho Marx](https://www.elcorreo.com/xlsemanal/wp-content/uploads/sites/5/2021/09/groucho-marx-vida-familia-actor.jpg)
+[![Groucho Marx](https://www.elcorreo.com/xlsemanal/wp-content/uploads/sites/5/2021/09/groucho-marx-vida-familia-actor.jpg)](https://www.elcorreo.com/xlsemanal/wp-content/uploads/sites/5/2021/09/groucho-marx-vida-familia-actor.jpg)
+
+*Para mostrar una imagen que al hacer click nos lleve a la pagina hay que ponerla entre corchetes y despues el enlace* (**no se puede poner un enlace diferente porque da error**)
 
 > *Damas y caballeros, estos son mis principios. Si no les gustan tengo otros*
 ## Educación
@@ -50,7 +52,6 @@ videoControls.style.display = 'none';
 }
 ```
 [Enlace a Master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-manuel_curbelo_alu0100045130/blob/main/master.md)
-
 
 
 
