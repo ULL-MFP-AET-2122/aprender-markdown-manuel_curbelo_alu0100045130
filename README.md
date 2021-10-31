@@ -41,7 +41,7 @@ if ( !understands_video() ) {
 videoControls.style.display = 'none';
 }
 ```
-*[Master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-manuel_curbelo_alu0100045130/blob/main/master.md)
+[Master.md](https://github.com/ULL-MFP-AET-2122/aprender-markdown-manuel_curbelo_alu0100045130/blob/main/master.md)
 
 
 
