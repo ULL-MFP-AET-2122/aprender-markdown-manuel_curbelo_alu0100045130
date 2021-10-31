@@ -2,22 +2,21 @@
 ## Educación
 * 2004-2006 *Técnico Superior* en Telecomunicaciones e Informática
 * 2011-2012 **Técnico Superior** en Integración Social
-* 2012-2016 Grado en Tecnologías Marinas
+* 2012-2016 **Grado en Tecnologías Marinas**
 * 2019-👾 Máster en Ingenieria Marina
-* 2021-2022 Master en Profesorado
+* 2021-2022 *Master en Profesorado de la enseñanza en ESO y en **AQUELLO***
 ## Experiencia de trabajo
 
 * Barcos y cosas que flotan
-* Administrativo
+* Administrativo *en un monton de sistios*
 
-Grupo | Categoria
+
+ | Categoria
 ------------ | -------------
 2.1 | Tecnología
 2.2 | Informática
 
-### tales y cuales
-
-👾
+### tal y cuales
 
 ![a](https://upload.wikimedia.org/wikipedia/commons/6/64/Ole_diario_logo.jpg)
 
