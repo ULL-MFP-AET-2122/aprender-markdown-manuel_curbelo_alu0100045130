@@ -32,7 +32,6 @@ Una prueba para una tabla | Esto es otra columna | y esta otra más
 2.1 | Tecnología | aqui ponemos mas texto
 2.2 | Informática | y aqui mas cosas que salen en tablas
 
-Da igual cuantas barras pongas para crear una tabla, se arregla ella sola
 
 ~~Esto es para probar cosas~~
 
